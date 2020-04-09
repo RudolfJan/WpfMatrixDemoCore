@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMatrixDemoCore", "WpfMatrixDemoCore\WpfMatrixDemoCore.csproj", "{B3E8448B-974B-412E-B956-EC322AD72CE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixLib", "MatrixLib\MatrixLib.csproj", "{A0124EAA-9632-490A-9204-467738EB7954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E8448B-974B-412E-B956-EC322AD72CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E8448B-974B-412E-B956-EC322AD72CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E8448B-974B-412E-B956-EC322AD72CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E8448B-974B-412E-B956-EC322AD72CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0124EAA-9632-490A-9204-467738EB7954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0124EAA-9632-490A-9204-467738EB7954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0124EAA-9632-490A-9204-467738EB7954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0124EAA-9632-490A-9204-467738EB7954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D980C078-2C3D-49E1-8EE3-468666301D08}
+	EndGlobalSection
+EndGlobal

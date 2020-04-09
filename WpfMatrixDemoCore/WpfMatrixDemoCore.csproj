@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Flags\switzerland.png" />
+    <None Remove="Flags\uk.png" />
+    <None Remove="Flags\usa.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MatrixLib\MatrixLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Flags\switzerland.png" />
+    <Resource Include="Flags\uk.png" />
+    <Resource Include="Flags\usa.png" />
+  </ItemGroup>
+
+</Project>
