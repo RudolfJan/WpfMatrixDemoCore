@@ -2,7 +2,7 @@
 using System.Collections.ObjectModel;
 using System.Linq;
 
-namespace MatrixLib.Matrix
+namespace Matrix.Library.Matrix
 {
     /// <summary>
     /// Base class for a matrix of data to be displayed by MatrixControl.

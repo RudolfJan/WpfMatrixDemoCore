@@ -1,4 +1,4 @@
-﻿namespace MatrixLib.Matrix
+﻿namespace Matrix.Library.Matrix
 {
     /// <summary>
     /// Represents the 'blank' top-left item in a matrix.

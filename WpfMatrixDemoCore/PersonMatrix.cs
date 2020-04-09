@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using MatrixLib.Matrix;
+using Matrix.Library.Matrix;
 using WpfMatrixDemo.Data;
 
 namespace WpfMatrixDemo

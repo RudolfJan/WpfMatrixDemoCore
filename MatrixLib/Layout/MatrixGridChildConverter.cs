@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Windows.Controls;
 using System.Windows.Data;
 
-namespace MatrixLib.Layout
+namespace Matrix.Library.Layout
 {
     /// <summary>
     /// The value converter applied to bindings against properties of 

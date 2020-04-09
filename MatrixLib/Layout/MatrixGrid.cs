@@ -4,7 +4,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
 
-namespace MatrixLib.Layout
+namespace Matrix.Library.Layout
 {
     /// <summary>
     /// A Grid panel that creates its own rows and columns based on the

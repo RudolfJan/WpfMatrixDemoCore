@@ -1,8 +1,8 @@
 ﻿<ItemsControl 
-  x:Class="MatrixLib.Matrix.MatrixControl"
+  x:Class="Matrix.Library.Matrix.MatrixControl"
   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-  xmlns:layout="clr-namespace:MatrixLib.Layout"
+  xmlns:layout="clr-namespace:Matrix.Library.Layout"
   >
   <ItemsControl.ItemsPanel>
     <ItemsPanelTemplate>

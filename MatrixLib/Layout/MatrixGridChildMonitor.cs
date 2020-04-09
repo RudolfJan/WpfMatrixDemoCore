@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace MatrixLib.Layout
+namespace Matrix.Library.Layout
 {
     /// <summary>
     /// Exposes two dependency properties which are bound to in

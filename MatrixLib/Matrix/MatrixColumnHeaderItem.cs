@@ -1,4 +1,4 @@
-﻿namespace MatrixLib.Matrix
+﻿namespace Matrix.Library.Matrix
 {
     /// <summary>
     /// Represents a header shown in the topmost slot in a column of a matrix.

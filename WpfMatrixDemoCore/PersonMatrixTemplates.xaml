@@ -1,8 +1,7 @@
 ﻿<ResourceDictionary 
   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-  xmlns:mx="clr-namespace:MatrixLib.Matrix;assembly=MatrixLib"
-  >
+  xmlns:matrix="clr-namespace:Matrix.Library.Matrix;assembly=Matrix.Library">
 
   <!-- Shared Resources -->
   <SolidColorBrush x:Key="BackBrush" Color="Black" />
@@ -11,12 +10,12 @@
   <SolidColorBrush x:Key="HeaderForeground" Color="WhiteSmoke" />
 
   <!-- MatrixEmptyHeaderItem -->
-  <DataTemplate DataType="{x:Type mx:MatrixEmptyHeaderItem}">
+  <DataTemplate DataType="{x:Type matrix:MatrixEmptyHeaderItem}">
     <Border Background="DarkGray" />
   </DataTemplate>
 
   <!-- MatrixColumnHeaderItem -->
-  <DataTemplate DataType="{x:Type mx:MatrixColumnHeaderItem}">
+  <DataTemplate DataType="{x:Type matrix:MatrixColumnHeaderItem}">
     <Border 
       Background="{StaticResource BackBrush}" 
       BorderBrush="{StaticResource BorderBrush}" 
@@ -34,7 +33,7 @@
   </DataTemplate>
 
   <!-- MatrixRowHeaderItem -->
-  <DataTemplate DataType="{x:Type mx:MatrixRowHeaderItem}">
+  <DataTemplate DataType="{x:Type matrix:MatrixRowHeaderItem}">
     <Border 
       Background="{StaticResource BackBrush}" 
       BorderBrush="{StaticResource BorderBrush}" 
@@ -52,7 +51,7 @@
   </DataTemplate>
 
   <!-- MatrixCellItem -->
-  <DataTemplate DataType="{x:Type mx:MatrixCellItem}">
+  <DataTemplate DataType="{x:Type matrix:MatrixCellItem}">
     <Border 
       x:Name="bd" 
       Background="#110000FF" 

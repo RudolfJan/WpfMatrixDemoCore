@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMatrixDemoCore", "WpfMatrixDemoCore\WpfMatrixDemoCore.csproj", "{B3E8448B-974B-412E-B956-EC322AD72CE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixLib", "MatrixLib\MatrixLib.csproj", "{A0124EAA-9632-490A-9204-467738EB7954}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix.Library", "MatrixLib\Matrix.Library.csproj", "{A0124EAA-9632-490A-9204-467738EB7954}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

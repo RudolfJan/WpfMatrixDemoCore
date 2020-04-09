@@ -1,4 +1,4 @@
-﻿namespace MatrixLib.Matrix
+﻿namespace Matrix.Library.Matrix
 {
     /// <summary>
     /// Represents a row-column intersection in a matrix.

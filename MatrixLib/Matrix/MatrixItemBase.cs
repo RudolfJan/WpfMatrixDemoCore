@@ -1,4 +1,4 @@
-﻿namespace MatrixLib.Matrix
+﻿namespace Matrix.Library.Matrix
 {
     /// <summary>
     /// Represents an entity that can occupy a slot/cell in a matrix.

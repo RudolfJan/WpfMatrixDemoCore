@@ -1,6 +1,6 @@
-﻿namespace MatrixLib.Matrix
+﻿namespace Matrix.Library.Matrix
 {
-    public partial class MatrixControl : System.Windows.Controls.ItemsControl
+    public partial class MatrixControl
     {
         public MatrixControl()
         {
